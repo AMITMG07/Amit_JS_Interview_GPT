@@ -3,5 +3,5 @@ import react from '@vitejs/plugin-react';
 
 export default defineConfig({
   plugins: [react()],
-  base:"/Amit_JS_Interview_GPT"
+  base:"/Amit_JS_Interview_GPT/"
 });
